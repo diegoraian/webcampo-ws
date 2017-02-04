@@ -3,7 +3,6 @@ package com.sharedtractor.models;
 import java.util.Date;
 
 import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 
 public class Usuario {
 	private String nome;

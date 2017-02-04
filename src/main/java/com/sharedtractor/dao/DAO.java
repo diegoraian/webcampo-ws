@@ -7,9 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Properties;
 
-import com.sharedtractor.utils.Constantes;
 import com.sharedtractor.utils.SiteUtil;
-import com.mysql.jdbc.Driver;
 public class DAO implements IDAO{
 	
 	private DAO() {
